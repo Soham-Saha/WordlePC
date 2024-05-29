@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<jardesc>
+    <jar path="D:/main_drive/AllData/Mine/Software/Wordle/Wordle.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Wordle/src/desc.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=Wordle/src&lt;{DisplayFrame.java[DisplayFrame" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <file path="/Wordle/.classpath"/>
+        <file path="/Wordle/.project"/>
+        <javaElement handleIdentifier="=Wordle/src"/>
+    </selectedElements>
+</jardesc>
